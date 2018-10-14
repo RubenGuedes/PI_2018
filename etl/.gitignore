@@ -1,1 +1,3 @@
 build*
+.solution.json
+.gradle
