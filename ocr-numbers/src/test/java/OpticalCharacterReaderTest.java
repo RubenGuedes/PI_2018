@@ -23,7 +23,7 @@ public class OpticalCharacterReaderTest {
 
         assertEquals("0", parsedInput);
     }
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle1() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -36,7 +36,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("1", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderReturnsQuestionMarkForUnreadableButCorrectlySizedInput() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -49,7 +49,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("?", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderThrowsExceptionWhenNumberOfInputLinesIsNotAMultipleOf4() {
         expectedException.expect(IllegalArgumentException.class);
@@ -62,7 +62,7 @@ public class OpticalCharacterReaderTest {
         ));
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderThrowsExceptionWhenNumberOfInputColumnsIsNotAMultipleOf3() {
         expectedException.expect(IllegalArgumentException.class);
@@ -76,7 +76,7 @@ public class OpticalCharacterReaderTest {
         ));
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesBinarySequence110101100() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -89,7 +89,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("110101100", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderReplacesUnreadableDigitsWithQuestionMarksWithinSequence() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -102,7 +102,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("11?10?1?0", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle2() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -115,7 +115,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("2", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle3() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -128,7 +128,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("3", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle4() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -141,7 +141,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("4", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle5() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -154,7 +154,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("5", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle6() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -167,7 +167,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("6", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle7() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -180,7 +180,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("7", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle8() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -193,7 +193,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("8", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSingle9() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -206,7 +206,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("9", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesSequence1234567890() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
@@ -219,7 +219,7 @@ public class OpticalCharacterReaderTest {
         assertEquals("1234567890", parsedInput);
     }
 
-    @Ignore("Remove to run test")
+    //@Ignore("Remove to run test")
     @Test
     public void testReaderRecognizesAndCorrectlyFormatsMultiRowInput() {
         String parsedInput = new OpticalCharacterReader().parse(Arrays.asList(
