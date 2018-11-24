@@ -11,3 +11,7 @@
 | wordy | queen-attack |
 | simple-cipher | rectangles |
 | book-store | double-linked-list |
+| | tournament |
+| | anagram |
+| | change |
+| | complex numbers |
