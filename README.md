@@ -11,8 +11,9 @@
 | wordy | queen-attack |
 | simple-cipher | rectangles |
 | book-store | double-linked-list |
-| | tournament |
-| | anagram |
-| | change |
-| | complex numbers |
-| | clock |
+| zipper| tournament |
+| parallel letter frequency | anagram |
+| go counting | change |
+| binary search tree | complex numbers |
+| rational numbers | clock |
+| diffie hellman| |
