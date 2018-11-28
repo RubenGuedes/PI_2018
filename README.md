@@ -16,4 +16,3 @@
 | go counting | change |
 | binary search tree | complex numbers |
 | rational numbers | clock |
-| diffie hellman| |
