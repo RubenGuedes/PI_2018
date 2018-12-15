@@ -16,3 +16,8 @@
 | go counting | change |
 | binary search tree | complex numbers |
 | rational numbers | clock |
+| diffieHellman | |
+| palindrome products | |
+| custom-set | |
+| simple linked list | |
+| markdown | |
