@@ -16,8 +16,9 @@
 | go counting | change |
 | binary search tree | complex numbers |
 | rational numbers | clock |
-| diffieHellman | |
+| diffie hellman | |
 | palindrome products | |
 | custom-set | |
 | simple linked list | |
 | markdown | |
+| sublist ||
