@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RationalTest" tests="34" skipped="0" failures="0" errors="0" timestamp="2018-12-15T22:49:49" hostname="myPc" time="0.011">
+  <properties/>
+  <testcase name="testReduceARationalNumberWithANegativeDenominatorToLowestTerms" classname="RationalTest" time="0.001"/>
+  <testcase name="testSubtractTwoNegativeRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testRaiseANegativeRationalNumberToAPositiveIntegerPower" classname="RationalTest" time="0.0"/>
+  <testcase name="testMultiplyARationalNumberByZero" classname="RationalTest" time="0.0"/>
+  <testcase name="testAbsoluteValueOfANegativeRationalNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="testAddARationalNumberToItsAdditiveInverse" classname="RationalTest" time="0.0"/>
+  <testcase name="testRaiseZeroToAnIntegerPower" classname="RationalTest" time="0.0"/>
+  <testcase name="testReduceOneToLowestTerms" classname="RationalTest" time="0.0"/>
+  <testcase name="testMultiplyARationalNumberByItsReciprocal" classname="RationalTest" time="0.0"/>
+  <testcase name="testDivideAPositiveRationalNumberByANegativeRationalNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="testReduceANegativeRationalNumberToLowestTerms" classname="RationalTest" time="0.0"/>
+  <testcase name="testRaiseOneToAnIntegerPower" classname="RationalTest" time="0.0"/>
+  <testcase name="testAddTwoPositiveRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testDivideTwoPositiveRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testAddAPositiveRationalNumberAndANegativeRationalNumber" classname="RationalTest" time="0.001"/>
+  <testcase name="testRaiseARealNumberToAPositiveRationalNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="testDivideARationalNumberByOne" classname="RationalTest" time="0.0"/>
+  <testcase name="testSubtractARationalNumberFromItself" classname="RationalTest" time="0.0"/>
+  <testcase name="testMultiplyTwoPositiveRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testAbsoluteValueOfZero" classname="RationalTest" time="0.0"/>
+  <testcase name="testRaiseARealNumberToANegativeRationalNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="testReduceAPositiveRationalNumberToLowestTerms" classname="RationalTest" time="0.0"/>
+  <testcase name="testMultiplyANegativeRationalNumberByAPositiveRationalNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="testSubtractTwoPositiveRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testMultiplyARationalNumberByOne" classname="RationalTest" time="0.0"/>
+  <testcase name="testAddTwoNegativeRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testDivideTwoNegativeRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testRaiseAPositiveRationalNumberToAPositiveIntegerPower" classname="RationalTest" time="0.0"/>
+  <testcase name="testAbsoluteValueOfAPositiveRationalNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="testMultiplyTwoNegativeRationalNumbers" classname="RationalTest" time="0.0"/>
+  <testcase name="testRaiseAPositiveRationalNumberToThePowerOfZero" classname="RationalTest" time="0.0"/>
+  <testcase name="testReduceAnIntegerToLowestTerms" classname="RationalTest" time="0.0"/>
+  <testcase name="testSubtractAPositiveRationalNumberAndANegativeRationalNumber" classname="RationalTest" time="0.0"/>
+  <testcase name="testReduceZeroToLowestTerms" classname="RationalTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
