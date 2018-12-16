@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromeCalculatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-12-16T21:26:08" hostname="myPc" time="5.044">
+  <properties/>
+  <testcase name="largestPalindromeFromSingleDigitFactors" classname="PalindromeCalculatorTest" time="0.003"/>
+  <testcase name="errorLargestMinIsMoreThanMax" classname="PalindromeCalculatorTest" time="0.012"/>
+  <testcase name="smallestPalindromeFromTripleDigitFactors" classname="PalindromeCalculatorTest" time="0.077"/>
+  <testcase name="smallestPalindromeFromQuadDigitFactors" classname="PalindromeCalculatorTest" time="2.537"/>
+  <testcase name="emtpyResultLargestNoPalindromeInRange" classname="PalindromeCalculatorTest" time="0.0"/>
+  <testcase name="largestPalindromeFromTripleDigitFactors" classname="PalindromeCalculatorTest" time="0.023"/>
+  <testcase name="errorSmallestMinIsMoreThanMax" classname="PalindromeCalculatorTest" time="0.0"/>
+  <testcase name="smallestPalindromeFromDoubleDigitFactors" classname="PalindromeCalculatorTest" time="0.0"/>
+  <testcase name="emtpyResultSmallestNoPalindromeInRange" classname="PalindromeCalculatorTest" time="0.001"/>
+  <testcase name="largestPalindromeFromQuadDigitFactors" classname="PalindromeCalculatorTest" time="2.388"/>
+  <testcase name="smallestPalindromeFromSingleDigitFactors" classname="PalindromeCalculatorTest" time="0.0"/>
+  <testcase name="largestPalindromeFromDoubleDigitFactors" classname="PalindromeCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
