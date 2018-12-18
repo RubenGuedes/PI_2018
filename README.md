@@ -16,9 +16,9 @@
 | go counting | change |
 | binary search tree | complex numbers |
 | rational numbers | clock |
-| diffie hellman | |
-| palindrome products | |
-| custom-set | |
-| simple linked list | |
-| markdown | |
+| diffie hellman | forth |
+| palindrome products | pythagorean_triplet |
+| custom-set | affine_cipher |
+| simple linked list | Word Search |
+| markdown | crypto square |
 | sublist ||
