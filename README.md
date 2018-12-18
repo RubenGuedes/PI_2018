@@ -21,4 +21,4 @@
 | custom-set | affine_cipher |
 | simple linked list | Word Search |
 | markdown | crypto square |
-| sublist ||
+| sublist | isbn verifier |
